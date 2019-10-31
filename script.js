@@ -70,6 +70,55 @@ function extremeRandomButtons(){
 }
 
 
+function red(){
+  document.body.style="background-color:red";
+}
+
+function blue(){
+  document.body.style="background-color:blue";
+}
+
+function display(){
+  document.getElementById('h2').style.display="";
+}
+
+function green(){
+  document.body.style="background-color:green";
+}
+
+function yellow(){
+  document.body.style="background-color:yellow";
+}
+
+function purple(){
+  document.body.style="background-color:purple";
+}
+
+function black(){
+  document.body.style="background-color:#332F29";
+}
+
+function white(){
+  document.body.style="background-color:white";
+}
+
+function brown(){
+  document.body.style="background-color:brown";
+}
+
+function orange(){
+  document.body.style="background-color:orange";
+}
+
+function pink(){
+  document.body.style="background-color:pink";
+}
+
+function hide(){
+  document.getElementById('h2').style.display="none";
+}
+
+
 
 
 randomPosition()
